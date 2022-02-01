@@ -1,5 +1,5 @@
 # BOUNCING BALLS
-A simulation of balls enclosed in a box, free to bounce, collide and rotate, whilst subjected to the influence of gravity
+A simulation of balls enclosed in a box, free to bounce, collide and rotate, whilst subjected to the influence of gravity.
 
 ## HOW TO RUN PROGRAM
 In order to run the program, the user should first ensure that the file "BouncingBalls.pde" is inside the folder titled "BouncingBalls.pde" (this is a requirement for Java Processing). The user should also ensure that the folder titled "textures" is in the same folder as BouncingBalls.pde. Then in BouncingBalls.pde, the user should select the "run" button.
