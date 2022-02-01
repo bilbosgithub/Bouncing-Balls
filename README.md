@@ -2,7 +2,7 @@
 A simulation of balls enclosed in a box, free to bounce, collide and rotate, whilst subjected to the influence of gravity
 
 ## HOW TO RUN PROGRAM
-In order to run the program, the user should first ensure that the folder titled "textures" is in the same folder as BouncingBalls.pde. Then, in BouncingBalls.pde, the user should select the "run" button.
+In order to run the program, the user should first ensure that the file "BouncingBalls.pde" is inside the folder titled "BouncingBalls.pde" (this is a requirement for Java Processing). The user should also ensure that the folder titled "textures" is in the same folder as BouncingBalls.pde. Then in BouncingBalls.pde, the user should select the "run" button.
 
 ## HOW TO SHOOT A BALL
 We begin in a box of size (DisplayWidth x DisplayHeight x Depth), centred in the display window. The user should click the mouse at (x,y) on the screen to shoot a ball along the Z-axis, with a random texture and in a random direction, according to the XY plane. The user can shoot as many balls as they wish, each of uniform RADIUS - and hence mass, as we assume no changes to the density of the ball. The ball will only spawn if the position (x, y) of the mouse is at least RADIUS distance from the walls, ensuring that the ball is entirely contained within the box. 
